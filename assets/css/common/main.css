@@ -74,3 +74,18 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+
+
+@font-face {
+    font-family: 'Crimson Pro';
+    src: url('/fonts/CrimsonPro-Regular.woff2') format('woff2'),
+         url('/fonts/CrimsonPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Crimson Pro', '楷体', serif;
+    text-align: justify;
+}

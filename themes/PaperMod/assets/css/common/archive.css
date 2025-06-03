@@ -42,3 +42,7 @@
     color: var(--secondary);
     font-size: 14px;
 }
+
+body {
+    text-align: justify;
+}

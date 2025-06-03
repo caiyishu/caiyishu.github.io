@@ -17,6 +17,10 @@
     --border: rgb(238, 238, 238);
 }
 
+body {
+    text-align: justify;
+}
+
 .dark {
     --theme: rgb(29, 30, 32);
     --entry: rgb(46, 46, 51);
@@ -36,3 +40,4 @@
 .dark.list {
     background: var(--theme);
 }
+
