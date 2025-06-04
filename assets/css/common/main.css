@@ -80,14 +80,12 @@ pre:hover .copy-code {
 @font-face {
     font-family: 'Crimson Pro';
     src: url('/fonts/CrimsonPro-Regular.woff2') format('woff2'),
-         url('/fonts/CrimsonPro-Regular.woff') format('woff'),
-         url('/fonts/FZFWZhuZiAOldMincho-R.woff2') format('woff2'),
-         url('/fonts/FZFWZhuZiAOldMincho-R.woff') format('woff');
+         url('/fonts/CrimsonPro-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: "Crimson Pro", "KaiTi", "Songti SC", "Songti TC", "SimSun", "NSimSun", "Noto Serif CJK SC", "Noto Serif CJK TC", "STSong", "PMingLiU", "MingLiU", serif;
+    font-family: "Crimson Pro", "Noto Serif CJK SC", "Noto Serif CJK TC", "Microsoft YaHei", "PMingLiU", "MingLiU", serif;
     text-align: left;
 }
