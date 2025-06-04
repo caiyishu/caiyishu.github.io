@@ -3,13 +3,12 @@ title: "CSR as Hedging Against Institutional Transition Risk: Corporate Philanth
 date: 2025-06-01
 author: ["Yishu Cai","Lori Qingyuan Yue", "Fangwen Lin", "Shipeng Yan", "Haibin Yang"]
 description: "Published in the Administrative Science Quarterly, 2025." 
-summary: "We uncover how politically connected firms strategically deploy philanthropy as a hedging mechanism during democratic transitions, particularly when mass protests and regional political shifts heighten the reputational costs of prior regime ties.." 
+summary: "We uncover how politically connected firms strategically deploy philanthropy as a hedging mechanism during democratic transitions, particularly when mass protests and regional political shifts heighten the reputational costs of prior regime ties." 
 cover:
     image: "/img/sunflower-cover.png"
     alt: "Corporate Philanthropy During Democratic Transition"
     relative: false
 editPost:
-    URL: "https://journals.sagepub.com/doi/abs/10.1177/00018392241307852"
     Text: "Administrative Science Quarterly"
 
 ---
