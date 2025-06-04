@@ -5,9 +5,9 @@ author: ["Yishu Cai","Lori Qingyuan Yue", "Fangwen Lin", "Shipeng Yan", "Haibin 
 description: "Published in the Administrative Science Quarterly, 2025." 
 summary: "We uncover how politically connected firms strategically deploy philanthropy as a hedging mechanism during democratic transitions, particularly when mass protests and regional political shifts heighten the reputational costs of prior regime ties.." 
 cover:
-    image: "sunflower-cover.png"
+    image: "/img/sunflower-cover.jpg"
     alt: "Corporate Philanthropy During Democratic Transition"
-    relative: true
+    relative: false
 editPost:
     URL: "https://journals.sagepub.com/doi/abs/10.1177/00018392241307852"
     Text: "Administrative Science Quarterly"
@@ -28,7 +28,7 @@ Firms with political connections to a regime with an authoritarian history face 
 
 ---
 
-<img src="paper1.png" style="zoom:60%;" />
+<img src="/img/paper1.png" style="zoom:60%;" />
 
 ---
 
