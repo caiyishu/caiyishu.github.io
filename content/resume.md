@@ -3,13 +3,13 @@
 |                                                              |                                                              |
 | :----------------------------------------------------------- | -----------------------------------------------------------: |
 | **<br /><font color=#6A7BA2 size=5>Education</font>**        |                                                              |
-| **The Chinese  University of Hong Kong, Hong Kong**          |                                             **2022-Present** |
+| **The Chinese  University of Hong Kong**, Hong Kong          |                                             **2022-Present** |
 | <font color=grey size=2>✠</font> Ph.D. in Management<br /><font color=grey size=2>✠</font> Supervisor: Prof. Haibin YANG |                                                              |
-| **City University of Hong Kong, Hong Kong**                  |                                                **2018-2022** |
+| **City University of Hong Kong**, Hong Kong                  |                                                **2018-2022** |
 | <font color=grey size=2>✠</font> Ph.D. in Management<br /><font color=grey size=2>✠</font> Supervisor: Prof. Haibin YANG |                                                              |
-| **Xi’an Jiaotong University, Xi’an**                         |                                                **2012-2018** |
+| **Xi’an Jiaotong University**, Xi’an                         |                                                **2012-2018** |
 | <font color=grey size=2>✠</font> Integrated Bachelor’s and Master’s Program<br /><font color=grey size=2>✠</font> Supervisor: Prof. Youmin XI |                                                              |
-| **Chengchi University, Taipei**                              |                                                     **2015** |
+| **Chengchi University**, Taipei                              |                                                     **2015** |
 | <font color=grey size=2>✠</font> Exchange Student            |                                                              |
 | **<br /><font color=#6A7BA2 size=5>Research Interest**       |                                                              |
 | **Substantive**<br /><br /><br /><br />                      | Nonmarket Strategy<br />Social Force<br />Politics<br />Technology |
