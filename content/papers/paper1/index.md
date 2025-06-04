@@ -5,7 +5,7 @@ author: ["Yishu Cai","Lori Qingyuan Yue", "Fangwen Lin", "Shipeng Yan", "Haibin 
 description: "Published in the Administrative Science Quarterly, 2025." 
 summary: "We uncover how politically connected firms strategically deploy philanthropy as a hedging mechanism during democratic transitions, particularly when mass protests and regional political shifts heighten the reputational costs of prior regime ties.." 
 cover:
-    image: "sunflower-cover.png"
+    image: "sunflower-cover.jpg"
     relative: true
 editPost:
     URL: "https://journals.sagepub.com/doi/abs/10.1177/00018392241307852"
