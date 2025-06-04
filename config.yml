@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Yishu CAI
-          subtitle: "I am 蔡益书 (pronounced Ts-EYE EE-shoo), a Ph.D. candidate in Management at CUHK Business School, The Chinese University of Hong Kong. My research explores how social forces intertwine the dynamics between business and politics and investigates how corporations navigate turbulent institutional transitions and technological shifts. My work uses econometric analysis, network analysis, and computational methods."
+          subtitle: "I am Yishu Cai (pronounced EE-shoo Ts-EYE), a Ph.D. candidate in Management at CUHK Business School, The Chinese University of Hong Kong. My research explores how social forces intertwine the dynamics between business and politics and investigates how corporations navigate turbulent institutional transitions and technological shifts. My work uses econometric analysis, network analysis, and computational methods."
           imageUrl: "picture.jpeg"
           imageWidth: 166
           imageHeight: 166
