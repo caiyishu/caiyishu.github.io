@@ -51,8 +51,10 @@ params:
           imageWidth: 166
           imageHeight: 166
           buttons:
+            - name: Resume
+              url: resume/
             - name: Papers
-              # url: papers/
+              url: papers/
             # - name: Data
             #   url: data/
             # - name: Books
@@ -61,8 +63,6 @@ params:
             #   url: courses/
             # - name: Tags
             #   url: tags/
-            - name: Resume
-              url: resume/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -100,9 +100,9 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Yishu CAI"
+      text: "caiyishu.ink"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 36
 
 markup:
     goldmark:
