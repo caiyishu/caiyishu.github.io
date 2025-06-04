@@ -79,8 +79,7 @@ pre:hover .copy-code {
 
 @font-face {
     font-family: 'Crimson Pro';
-    src: url('/fonts/CrimsonPro-Regular.woff2') format('woff2'),
-         url('/fonts/CrimsonPro-Regular.woff') format('woff');
+    src: url('https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_7xywHUtvO24A7RmP6.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
