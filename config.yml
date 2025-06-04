@@ -12,12 +12,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Home
-          url: https://caiyishu.github.io/
-          weight: 1
         - name: Resume
           url: resume/
-          weight: 2
+          weight: 1
         - name: Papers
           url: papers/
           weight: 2
