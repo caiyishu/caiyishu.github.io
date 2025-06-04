@@ -12,25 +12,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Home
+          url: https://caiyishu.github.io/
+          weight: 1
+        - name: Resume
+          url: resume/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
     description: "Yishu CAI's Homepage"
-    author: Yishu CAI
+    author: 
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -70,8 +61,8 @@ params:
             #   url: courses/
             # - name: Tags
             #   url: tags/
-            # - name: Archive
-            #   url: archive/
+            - name: Resume
+              url: resume/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
