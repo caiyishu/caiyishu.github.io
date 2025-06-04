@@ -82,8 +82,8 @@ params:
           url: mailto:yishu.cai@link.cuhk.edu.hk
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
-        # - name: Location
-        #   url: location/
+        - name: Location
+          url: https://www.google.com/maps/place/CUHK+Business+School/@22.412168,114.2079497,17z/data=!3m1!4b1!4m6!3m5!1s0x34040620c3a5828d:0xf733c44447288860!8m2!3d22.412168!4d114.21053!16s%2Fg%2F11b6hnvqy7?entry=ttu&g_ep=EgoyMDI1MDYwMS4wIKXMDSoASAFQAw%3D%3D
         # - name: Office Hours
         #   url: officehours/
         # - name: Google Scholar
