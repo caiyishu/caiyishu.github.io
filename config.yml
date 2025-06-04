@@ -59,37 +59,39 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 166
           imageHeight: 166
-          # buttons:
-          #   - name: Papers
-          #     url: papers/
-          #   - name: Data
-          #     url: data/
-          #   - name: Books
-          #     url: books/
-          #   - name: Courses
-          #     url: courses/
-          #   - name: Tags
-          #     url: tags/
-          #   - name: Archive
-          #     url: archive/
-          #   - name: Blog
-          #     url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          buttons:
+            - name: Papers
+              # url: papers/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Courses
+            #   url: courses/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         # - name: CV
         #   url: cv.pdf
         - name: Email
           url: mailto:yishu.cai@link.cuhk.edu.hk
+        # - name: researchgate
+        #   url: https://www.researchgate.net/profile/Yishu-Cai 
+        - name: Google Scholar
+          url: https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&authuser=1&user=kderpAgAAAAJ 
+        - name: GitHub
+          url: https://github.com/caiyishu      
+        # - name: Location
+        #   url: https://www.google.com/maps/place/CUHK+Business+School/@22.412168,114.2079497,17z/data=!3m1!4b1!4m6!3m5!1s0x34040620c3a5828d:0xf733c44447288860!8m2!3d22.412168!4d114.21053!16s%2Fg%2F11b6hnvqy7?entry=ttu&g_ep=EgoyMDI1MDYwMS4wIKXMDSoASAFQAw%3D%3D
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: https://www.google.com/maps/place/CUHK+Business+School/@22.412168,114.2079497,17z/data=!3m1!4b1!4m6!3m5!1s0x34040620c3a5828d:0xf733c44447288860!8m2!3d22.412168!4d114.21053!16s%2Fg%2F11b6hnvqy7?entry=ttu&g_ep=EgoyMDI1MDYwMS4wIKXMDSoASAFQAw%3D%3D
         # - name: Office Hours
         #   url: officehours/
-        # - name: Google Scholar
-        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/caiyishu
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: YouTube
@@ -98,6 +100,8 @@ params:
         #   url: https://x.com/pmichaillat
         # - name: Bluesky
         #   url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: affiliation
+          url: https://www.bschool.cuhk.edu.hk/
 
     assets:
         disableScrollBarStyle: true
