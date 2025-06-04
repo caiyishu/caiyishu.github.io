@@ -102,7 +102,7 @@ params:
     label:
       text: "caiyishu.ink"
       icon: favicon.ico
-      iconHeight: 36
+      iconHeight: 24
 
 markup:
     goldmark:
