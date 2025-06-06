@@ -43,6 +43,7 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    googleAnalyticsID: "G-4NLPBJJH5T"
     profileMode:
           enabled: true
           title: Yishu CAI
@@ -115,3 +116,5 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+
