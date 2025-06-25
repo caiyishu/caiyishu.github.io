@@ -38,8 +38,8 @@ Cai, Y., Yue, L. Q., Lin, F., Yan, S., &amp; Yang, H. (2025). CSR as Hedging Aga
 
 ```BibTeX
 @article{Cai2025CSR,
-  author       = {Cai, Yishu and Yue, Liang Q. and Lin, Fan and Yan, Shujun and Yang, Hua},
-  title        = {CSR as Hedging Against Institutional Transition Risk: Corporate Philanthropy After the Sunflower Movement in Taiwan},
+  author       = {Cai, Yishu and Yue, Lori Qingyuan and Lin, Fangwen and Yan, Shipeng and Yang, Haibin},
+  title        = {{CSR} as Hedging Against Institutional Transition Risk: Corporate Philanthropy After the Sunflower Movement in Taiwan},
   journal      = {Administrative Science Quarterly},
   year         = {2025},
   volume       = {70},
