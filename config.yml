@@ -15,9 +15,12 @@ menu:
         - name: Resume
           url: resume/
           weight: 1
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 2
+        - name: Projects
+          url: projects/
+          weight: 3
 
 params:
     description: "Yishu CAI's Homepage"
@@ -54,8 +57,10 @@ params:
           buttons:
             - name: Resume
               url: resume/
-            - name: Papers
-              url: papers/
+            - name: Publications
+              url: publications/
+            - name: Projects
+              url: projects/
             # - name: Data
             #   url: data/
             # - name: Books
