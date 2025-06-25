@@ -1,6 +1,6 @@
 # <p align="center">Featured Projects</p>
 
----
+<p align="center" style="font-size:1.5em;">─◈──§──◈─</p>
 
 ## <font color=#6A7BA2>Heightened Elite Capture During Political Transition</font><br />
 
@@ -20,7 +20,7 @@
 
 **We highlight a broader concern: social movement for transparency alone may be insufficient to dismantle entrenched systems. Rather than eliminating rent-seeking, transparency may instead reshape it—enabling more covert or sophisticated strategies that continue to serve elite interests.**
 
-<p align="center" style="font-size:1.5em;">━◈━━§━━◈━</p>
+<p align="center" style="font-size:1.5em;">─◈──§──◈─</p>
 
 ## <font color=#6A7BA2>Gendered Politics</font>
 
@@ -40,7 +40,7 @@
 
 **We highlight that even political elites, often perceived as powerful and independent, are not immune to deep-rooted gender biases. These biases shape their resource acquisition strategies and reinforce systemic inequalities in political markets.**
 
-<p align="center" style="font-size:1.5em;">━◈━━§━━◈━</p>
+<p align="center" style="font-size:1.5em;">─◈──§──◈─</p>
 
 ## <font color=#6A7BA2>CEO Personality and Engagement in Technological Evolution Trajectory</font>
 
@@ -62,7 +62,7 @@
 
 **Our findings underscore that radical technological change is influenced not only by technological factors but profoundly by influential social events and managerial psychological characteristics. Thus, a deeper examination of psychological mechanisms within their social contexts is essential to understanding corporate engagement with technological changes.**
 
-<p align="center" style="font-size:1.5em;">━◈━━§━━◈━</p>
+<p align="center" style="font-size:1.5em;">─◈──§──◈─</p>
 
 ## <font color=#6A7BA2>Cross-Channel Competition and Online Retail Dynamics</font>
 
@@ -82,4 +82,4 @@
 
 **Our findings not only offer strategic insights for retailers but also illuminate broader implications for understanding consumer behavior and the evolving nature of market dynamics in an increasingly integrated retail environment.**
 
-<p align="center" style="font-size:1.5em;">━◈━━§━━◈━</p>
+<p align="center" style="font-size:1.5em;">─◈──§──◈─</p>
