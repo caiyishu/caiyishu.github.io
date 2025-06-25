@@ -20,8 +20,6 @@ Firms with political connections to a regime with an authoritarian history face 
 
 <img src="/img/paper1.png" style="zoom:60%;" />
 
-<p align="center" style="font-size:1.5em;">◈──§──◈</p>
-
 ##### Citation
 <p style="text-indent:-2em; margin-left:2em;">
 Cai, Y., Yue, L. Q., Lin, F., Yan, S., &amp; Yang, H. (2025). CSR as Hedging Against Institutional Transition Risk: Corporate Philanthropy After the Sunflower Movement in Taiwan. <em>Administrative Science Quarterly</em>, 70(2), 367–402.
