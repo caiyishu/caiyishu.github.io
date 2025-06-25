@@ -27,7 +27,7 @@
 > **Y. Cai**, D. Wang, S. Yan<br />Dissertation Chapter
 
 <img 
-  src="https://caiyishu.github.io/picx-images-hosting/Snipaste_2025-06-25_11-39-04.2obslrgwm4.webp" 
+  src="https://caiyishu.github.io/picx-images-hosting/gender.1vyx496fi4.webp" 
   alt="img" 
   style="max-width:100%; height:auto; border: 2.4px solid #ccc; padding: 0px; border-radius: 8px;"
 />
