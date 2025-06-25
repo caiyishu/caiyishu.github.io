@@ -44,7 +44,7 @@
 
 ## <font color=#6A7BA2>The Neuroticism of Our Technological Age: CEO Personality and Engagement with Technological Evolution Trajectory</font>
 
-> **Y. Cai**, Y. Lin, Q. Fan<br />1st-Round Revise and Resubmission at *Strategic Management Journal*
+> **Y. Cai**, Y. Lin, Q. Fan<br />1st-Round Revise and Resubmission at ***Strategic Management Journal***
 
 <img 
   src="https://caiyishu.github.io/picx-images-hosting/Snipaste_2025-06-25_11-50-44.3nrvyxyznk.webp" 
@@ -66,7 +66,7 @@
 
 ## <font color=#6A7BA2>Friend and Foe: Cross-Channel Competition and Online Retail Dynamics</font>
 
-> Y. Tan, C. Tang, **Y. Cai**<br />1st-Round Revise and Resubmission at *Journal of Interactive Marketing*
+> Y. Tan, C. Tang, **Y. Cai**<br />1st-Round Revise and Resubmission at ***Journal of Interactive Marketing***
 
 <img 
   src="https://caiyishu.github.io/picx-images-hosting/Snipaste_2025-06-25_12-15-25.8z6sjomis8.webp" 
