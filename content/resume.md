@@ -19,8 +19,8 @@
 | **Ad Hoc Reviewer**<br /><br /><br />                        | *American Sociological Review*<br />*Journal of International Marketing*<br />*Management and Organization Review* |
 | **<br /><font color=#6A7BA2 size=5>Academic Award</font>**   |                                                              |
 | **Kwok Leung Memorial Dissertation Fund Grant**, IACMR       |                                                         2025 |
-| **Best Paper in CSR and Sustainability**, AOM-IM Devision    |                                               In Competition |
-| **Division Best Paper Finalist**, AOM-OMT Devision           |                                                         2022 |
+| **CSR and Sustainability Research Best Paper Award **, AOM-IM Devision |                                               In Competition |
+| **Responsible Research Award Finalist**, AOM-OMT Devision    |                                                         2022 |
 | **Outstanding Academic Performance**,  CityU                 |                                                         2021 |
 | **Best Student Paper Award**, IACMR Biennial Conference      |                                                         2021 |
 | **Best Paper Prize Finalist**, *GSJ*                         |                                                         2021 |

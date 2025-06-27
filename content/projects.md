@@ -1,5 +1,11 @@
 # <p align="center">Featured Projects</p>
 
+<img 
+  src="https://caiyishu.github.io/picx-images-hosting/Research-Landscape-Map.8z6smhoz1z.webp" 
+  alt="img" 
+  style="max-width:100%; height:auto; border: 0px solid #000; padding: 0px; border-radius: 8px;"
+/>
+
 <p align="center" style="font-size:1.5em;">◈──§──◈</p>
 
 ## <font color=#6A7BA2>Heightened Elite Capture During Political Transition</font><br />
