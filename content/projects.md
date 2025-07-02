@@ -1,5 +1,7 @@
 # <p align="center">Featured Projects</p>
 
+<div style="display:none">
+
 <img 
   src="https://caiyishu.github.io/picx-images-hosting/RESEARCH-LANDSCAPE-MAP.7i0nmphg67.webp" 
   alt="img" 

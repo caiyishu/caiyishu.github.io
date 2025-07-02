@@ -12,9 +12,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Resume
-          url: resume/
-          weight: 1
+        # - name: Resume
+        #   url: resume/
+        #   weight: 1
         - name: Publications
           url: publications/
           weight: 2
@@ -55,8 +55,8 @@ params:
           imageWidth: 166
           imageHeight: 166
           buttons:
-            - name: Resume
-              url: resume/
+            # - name: Resume
+            #   url: resume/
             - name: Publications
               url: publications/
             - name: Projects
