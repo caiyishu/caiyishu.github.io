@@ -1,13 +1,5 @@
 # <p align="center">Featured Projects</p>
 
-<div style="display:none">
-
-<img 
-  src="https://caiyishu.github.io/picx-images-hosting/RESEARCH-LANDSCAPE-MAP.7i0nmphg67.webp" 
-  alt="img" 
-  style="max-width:100%; height:auto; border: 0px solid #000; padding: 0px; border-radius: 8px;"
-/>
-
 <p align="center" style="font-size:1.5em;">◈──§──◈</p>
 
 ## <font color=#6A7BA2>Heightened Elite Capture During Political Transition</font><br />
@@ -91,3 +83,10 @@ However, **the opening of competitors’ offline stores negatively impacts new-c
 Our findings not only provide strategic insights for retailers but also illuminate broader implications for understanding consumer behavior and **the evolving nature of market dynamics** in an increasingly integrated retail environment.
 
 <p align="center" style="font-size:1.5em;">◈──§──◈</p>
+
+<div style="display:none">
+<img 
+  src="https://caiyishu.github.io/picx-images-hosting/RESEARCH-LANDSCAPE-MAP.7i0nmphg67.webp" 
+  alt="img" 
+  style="max-width:100%; height:auto; border: 0px solid #000; padding: 0px; border-radius: 8px;"
+/>
