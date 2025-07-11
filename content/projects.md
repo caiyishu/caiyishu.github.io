@@ -1,5 +1,7 @@
 # <p align="center">Featured Projects</p>
 
+My working papers integrate theories of social movements, power dynamics, and psychology to reveal how macro-level social forces and micro-level organizational behaviors interact to drive corporate strategy and reshape the market structures. I approach research methodology with the belief that innovative methods create opportunities for theoretical advancement. Thus, I utilize causal inference methods, computational analyses, and network-based approaches applied to fine-grained datasets spanning contexts in Taiwan and the United States. This enables me to capture unique theoretical concepts and reveal latent theoretical mechanisms.
+
 <p align="center" style="font-size:1.5em;">◈──§──◈</p>
 
 ## <font color=#6A7BA2>Heightened Elite Capture During Political Transition</font><br />
