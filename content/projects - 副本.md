@@ -64,6 +64,26 @@ Our findings underscore that radical technological change is influenced not only
 
 <p align="center" style="font-size:1.5em;">◈──§──◈</p>
 
+## <font color=#6A7BA2>Friend and Foe: Cross-Channel Competition and Online Retail Dynamics</font>
+
+> Y. Tan, C. Tang, **Y. Cai**<br />
+
+<img 
+  src="https://caiyishu.github.io/picx-images-hosting/Snipaste_2025-06-25_12-15-25.8z6sjomis8.webp" 
+  alt="img" 
+  style="max-width:100%; height:auto; border: 2.4px solid #000; padding: 0px; border-radius: 8px;"
+/>
+
+Do competitors’ offline stores help or hinder online retail performance?
+
+Analyzing transaction data from a major O2O platform in Hong Kong, we find that **the opening of competitors’ offline stores increases online sales among the platform’s existing customers**, driven by their search for broader choices and better prices online. **The opening of competitors’ offline stores  also reduce product returns in the O2O platform** by enabling customers to evaluate items before purchasing online.
+
+However, **the opening of competitors’ offline stores negatively impacts new-customer acquisition, posing growth challenges for online retailers.**
+
+Our findings not only provide strategic insights for retailers but also illuminate broader implications for understanding consumer behavior and **the evolving nature of market dynamics** in an increasingly integrated retail environment.
+
+<p align="center" style="font-size:1.5em;">◈──§──◈</p>
+
 <div style="display:none">
 <img 
   src="https://caiyishu.github.io/picx-images-hosting/RESEARCH-LANDSCAPE-MAP.7i0nmphg67.webp" 
