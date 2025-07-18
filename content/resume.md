@@ -11,11 +11,11 @@
 | **<br /><font color=#6A7BA2 size=5>Community Service</font>** |                                                              |
 | **Ad Hoc Reviewer**<br /><br /><br />                        | *American Sociological Review*<br />*Journal of International Marketing*<br />*Management and Organization Review* |
 | **<br /><font color=#6A7BA2 size=5>Academic Award</font>**   |                                                              |
-| **Kwok Leung Memorial Dissertation Fund Grant**<br />IACMR   |                                             2025<br /><br /> |
-| **CSR and Sustainability Research Best Paper Award**<br />AOM-IM |                       Outcome Pending Evaluation<br /><br /> |
-| **Responsible Research Award Finalist**<br />AOM-OMT         |                                             2022<br /><br /> |
-| **Outstanding Academic Performance**<br />CityU              |                                             2021<br /><br /> |
-| **Best Student Paper Award**<br />IACMR Biennial Conference  |                                             2021<br /><br /> |
-| ***GSJ* Best Paper Prize Finalist**<br />IACMR Biennial Conference |                                             2021<br /><br /> |
-| **Best Paper Prize Nomination**<br />SMS                     |                                             2020<br /><br /> |
-| **Top 1% Outstanding Undergraduate Thesis**<br />XJTU        |                                             2016<br /><br /> |
+| **Kwok Leung Memorial Dissertation Fund Grant**              |                                                        IACMR |
+| **CSR and Sustainability Research Best Paper Award** (Pending Evaluation) |                                                       AOM-IM |
+| **Responsible Research Award Finalist**                      |                                                      AOM-OMT |
+| **Outstanding Academic Performance**                         |                                                        CityU |
+| **Best Student Paper Award**                                 |                                                        IACMR |
+| ***GSJ* Best Paper Prize Finalist**                          |                                                        IACMR |
+| **Best Paper Prize Nomination**                              |                                                          SMS |
+| **Top 1% Outstanding Undergraduate Thesis**                  |                                                         XJTU |
