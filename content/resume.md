@@ -12,6 +12,7 @@
 | **Ad Hoc Reviewer**<br /><br /><br />                        | *American Sociological Review*<br />*Journal of International Marketing*<br />*Management and Organization Review* |
 | **<br /><font color=#6A7BA2 size=5>Academic Award</font>**   |                                                              |
 | **Kwok Leung Memorial Dissertation Fund Grant**              |                                                        IACMR |
+| **Competitive Graduate Student Research Grant**              |                                                        CUHK |
 | **CSR and Sustainability Research Best Paper Award** (Pending Evaluation) |                                                       AOM-IM |
 | **Responsible Research Award Finalist**                      |                                                      AOM-OMT |
 | **Outstanding Academic Performance**                         |                                                        CityU |
