@@ -4,7 +4,7 @@
 
 ## <font color=#6A7BA2>Heightened Elite Capture During Political Transition</font><br />
 
-> **Y. Cai**, Y. Shui, H. Yang<br />**Kwok Leung Memorial Dissertation Fund Grant**<br />Dissertation Chapter
+> **Y. Cai**, Y. Shui, H. Yang<br /><font color=#6A7BA2>**Kwok Leung Memorial Dissertation Fund Grant**</font><br />Dissertation Chapter
 
 <img 
   src="https://caiyishu.github.io/picx-images-hosting/image.4qrl9sicgk.webp" 
@@ -24,7 +24,7 @@ We highlight a broader concern: **social movement for transparency alone may be 
 
 ## <font color=#6A7BA2>Gendered Politics</font>
 
-> **Y. Cai**, D. Wang, S. Yan<br />**Competitive Graduate Student Research Grant**<br />Dissertation Chapter
+> **Y. Cai**, D. Wang, S. Yan<br /><font color=#6A7BA2>**Competitive Graduate Student Research Grant**</font><br />Dissertation Chapter
 
 <img 
   src="https://caiyishu.github.io/picx-images-hosting/gender.1vyx496fi4.webp" 
@@ -44,7 +44,7 @@ We highlight that **even political elites, often perceived as powerful and indep
 
 ## <font color=#6A7BA2>The Neuroticism of Our Technological Age: CEO Personality and Engagement with Technological Evolution Trajectory</font>
 
-> **Y. Cai**, Y. Lin, Q. Fan<br />1st Round Revision and Resubmission at ***Strategic Management Journal***
+> **Y. Cai**, Y. Lin, Q. Fan<br /><font color=#6A7BA2>1st Round Revision and Resubmission at ***Strategic Management Journal***</font>
 
 <img 
   src="https://caiyishu.github.io/picx-images-hosting/Snipaste_2025-06-25_11-50-44.3nrvyxyznk.webp" 
