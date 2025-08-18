@@ -4,7 +4,7 @@
 
 ## <font color=#6A7BA2>Heightened Elite Capture During Political Transition</font><br />
 
-> **Y. Cai**, Y. Shui, H. Yang<br /><font color=#6A7BA2>**Kwok Leung Memorial Dissertation Fund Grant**</font><br />Dissertation Chapter
+> **Y. Cai**, Y. Shui, H. Yang<br /><font color=#6A7BA2>1st Round Revision and Resubmission at ***Administrative Science Quarterlyent Journal***</font><font color=#6A7BA2><br />**Kwok Leung Memorial Dissertation Fund Grant**</font><br />Dissertation Chapter
 
 <img 
   src="https://caiyishu.github.io/picx-images-hosting/image.4qrl9sicgk.webp" 
