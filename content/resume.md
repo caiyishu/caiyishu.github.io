@@ -6,7 +6,7 @@
 | **The Chinese  University of Hong Kong**                     |                                Ph.D. Candidate in Management |
 | **Xi'an Jiaotong University**                                |                       Integrated Bachelor’s–Master’s Program |
 | **<br /><font color=#6A7BA2 size=5>Research Interest**       |                                                              |
-| **Substantive**<br /><br /><br /><br />                      | Nonmarket Strategy<br />Business and Society<br />Politics<br />Technology |
+| **Substantive**<br /><br /><br /><br />                      | Nonmarket Strategy<br />Business and Society<br />Technological Change<br />AI Transition<br />Digital Activism |
 | **Methodology**<br /><br /><br /><br />                      | Causal Inference<br />Natural Language Processing<br />Deep Learning<br />Network Analysis |
 | **Programming Tool**                                         |                                    Python; Stata; R; C++; VB |
 | **<br /><font color=#6A7BA2 size=5>Community Service</font>** |                                                              |
@@ -29,13 +29,10 @@
 <p style="text-indent:-2em; margin-left:2em;">
 Cai, Y., Yue, L. Q., Lin, F., Yan, S., &amp; Yang, H. (2025). <b>CSR as Hedging Against Institutional Transition Risk: Corporate Philanthropy After the Sunflower Movement in Taiwan</b>. <em>Administrative Science Quarterly</em>, 70(2), 367–402.
 </p>
-
 <p style="text-indent:-2em; margin-left:2em;">
-Cai Y., Shui Y., &amp; Yang H. <b>Heightened Elite Capture During Political Transition</b>. 1st Round Revision and Resubmission at <em>Administrative Science Quarterly</em>
+Cai Y., Shui Y., &amp; Yang H. <b>Digital Social Activism, Business Group Effects, and Heightened Elite Capture</b>. 1st Round Revision and Resubmission at <em>Administrative Science Quarterly</em>
 </p>
-
 
 <p style="text-indent:-2em; margin-left:2em;">
 Cai Y., Lin Y., &amp; Fan Q. <b>The Neuroticism of Our Technological Age: CEO Personality and Engagement with Technological Evolution Trajectory</b>. 1st Round Revision and Resubmission at <em>Strategic Management Journal</em>
 </p>
-
