@@ -10,7 +10,7 @@
 | **Methodology**<br /><br /><br /><br />                      | Causal Inference<br />Natural Language Processing<br />Deep Learning<br />Network Analysis |
 | **Programming Tool**                                         |                                    Python; Stata; R; C++; VB |
 | **<br /><font color=#6A7BA2 size=5>Community Service</font>** |                                                              |
-| **Ad Hoc Reviewer**<br /><br /><br />                        | *American Sociological Review*<br />*Journal of International Marketing*<br />*Management and Organization Review* |
+| **Ad Hoc Reviewer**<br /><br /><br /><br />                  | *American Sociological Review*<br />*Academy of Management Journal*<br />*Journal of International Marketing*<br />*Management and Organization Review* |
 | **<br /><font color=#6A7BA2 size=5>Academic Awards</font>**  |                                                              |
 | 1. **Kwok Leung Memorial Dissertation Fund Grant**           |                                                        IACMR |
 | 2. **Competitive Graduate Student Research Grant**           |                                                         CUHK |
