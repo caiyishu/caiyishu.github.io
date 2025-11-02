@@ -30,9 +30,10 @@
 Cai, Y., Yue, L. Q., Lin, F., Yan, S., &amp; Yang, H. (2025). <b>CSR as Hedging Against Institutional Transition Risk: Corporate Philanthropy After the Sunflower Movement in Taiwan</b>. <em>Administrative Science Quarterly</em>, 70(2), 367–402.
 </p>
 <p style="text-indent:-2em; margin-left:2em;">
-Cai Y., Shui Y., &amp; Yang H. <b>Digital Social Activism, Business Group Effects, and Heightened Elite Capture</b>. 1st Round Revision and Resubmission at <em>Administrative Science Quarterly</em>
+Cai Y., Shui Y., &amp; Yang H. <b>Digital Social Activism and Heightened Elite Capture</b>. 1st Round Revision and Resubmission at <em>Administrative Science Quarterly</em>
 </p>
 
 <p style="text-indent:-2em; margin-left:2em;">
-Cai Y., Lin Y., &amp; Fan Q. <b>The Neuroticism of Our Technological Age: CEO Personality and Engagement with Technological Evolution Trajectory</b>. 1st Round Revision and Resubmission at <em>Strategic Management Journal</em>
+Cai Y., Lin Y., &amp; Fan Q. <b>Neuroticism and AI Innovation</b>. 1st Round Revision and Resubmission at <em>Strategic Management Journal</em>
 </p>
+
