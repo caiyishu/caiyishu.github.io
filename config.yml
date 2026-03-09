@@ -1,0 +1,125 @@
+baseURL: "https://caiyishu.github.io" 
+title: Yishu CAI’s Homepage
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Resume
+          url: resume/
+          weight: 1
+        - name: Publications
+          url: publications/
+          weight: 2
+        # - name: Projects
+        #   url: projects/
+        #   weight: 3
+
+params:
+    description: "Yishu CAI's Homepage"
+    author: 
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    googleAnalyticsID: "G-4NLPBJJH5T"
+    profileMode:
+          enabled: true
+          title: Yishu CAI
+          subtitle: "I am Yishu Cai (pronounced EE-shoo Ts-EYE), a Ph.D. candidate in Management at CUHK Business School, The Chinese University of Hong Kong. My research explores how social forces intertwine the dynamics between business and politics and investigates how corporations navigate turbulent institutional transitions and technological shifts. My work uses econometric analysis, network analysis, and computational methods."
+          imageUrl: "picture.jpeg"
+          imageWidth: 166
+          imageHeight: 166
+          buttons:
+            - name: Resume
+              url: resume/
+            - name: Publications
+              url: publications/
+            # - name: Projects
+            #   url: projects/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Courses
+            #   url: courses/
+            # - name: Tags
+            #   url: tags/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        # - name: CV
+        #   url: cv.pdf
+        - name: Email
+          url: mailto:yishu.cai@link.cuhk.edu.hk
+        # - name: researchgate
+        #   url: https://www.researchgate.net/profile/Yishu-Cai 
+        - name: Google Scholar
+          url: https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&authuser=1&user=kderpAgAAAAJ 
+        - name: GitHub
+          url: https://github.com/caiyishu      
+        # - name: Location
+        #   url: https://www.google.com/maps/place/CUHK+Business+School/@22.412168,114.2079497,17z/data=!3m1!4b1!4m6!3m5!1s0x34040620c3a5828d:0xf733c44447288860!8m2!3d22.412168!4d114.21053!16s%2Fg%2F11b6hnvqy7?entry=ttu&g_ep=EgoyMDI1MDYwMS4wIKXMDSoASAFQAw%3D%3D
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        # - name: Office Hours
+        #   url: officehours/
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
+        # - name: Twitter
+        #   url: https://x.com/pmichaillat
+        # - name: Bluesky
+        #   url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: affiliation
+          url: https://www.bschool.cuhk.edu.hk/
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "caiyishu.ink"
+      icon: favicon.ico
+      iconHeight: 24
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+
