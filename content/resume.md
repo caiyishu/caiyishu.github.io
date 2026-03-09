@@ -10,9 +10,9 @@
 | **Methodology**<br /><br /><br /><br />                      | Causal Inference<br />Natural Language Processing<br />Deep Learning<br />Network Analysis |
 | **Programming Tool**                                         |                                    Python; Stata; R; C++; VB |
 | **<br /><font color=#6A7BA2 size=5>Community Service</font>** |                                                              |
-| **Ad Hoc Reviewer**<br /><br /><br /><br />                  | *American Sociological Review*<br />*Academy of Management Journal*<br />*Journal of International Marketing*<br />*Management and Organization Review*<br />*Organization Science* |
+| **Ad Hoc Reviewer**<br /><br /><br /><br /><br />            | *American Sociological Review*<br />*Academy of Management Journal*<br />*Journal of International Marketing*<br />*Management and Organization Review*<br />*Organization Science* |
 | **<br /><font color=#6A7BA2 size=5>Academic Awards</font>**  |                                                              |
-| **Li Po Chun Charitable Trust Fund Scholarship**              |                                                        CUHK |
+| **Li Po Chun Charitable Trust Fund Scholarship**             |                                                         CUHK |
 | **Kwok Leung Memorial Dissertation Fund Grant**              |                                                        IACMR |
 | **Competitive Graduate Student Research Grant**              |                                                         CUHK |
 | **CSR and Sustainability Research Best Paper Award**         |                                                       AOM-IM |
