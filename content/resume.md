@@ -12,7 +12,7 @@
 | **<br /><font color=#6A7BA2 size=5>Community Service</font>** |                                                              |
 | **Ad Hoc Reviewer**<br /><br /><br /><br /><br />            | *American Sociological Review*<br />*Academy of Management Journal*<br />*Journal of International Marketing*<br />*Management and Organization Review*<br />*Organization Science* |
 | **<br /><font color=#6A7BA2 size=5>Academic Awards</font>**  |                                                              |
-| **Best Paper Designation**             |                                                         AOM |
+| **Best Paper Designation**                                   |                                                          AOM |
 | **Li Po Chun Charitable Trust Fund Scholarship**             |                                                         CUHK |
 | **Kwok Leung Memorial Dissertation Fund Grant**              |                                                        IACMR |
 | **Competitive Graduate Student Research Grant**              |                                                         CUHK |
