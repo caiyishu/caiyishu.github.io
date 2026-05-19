@@ -9,6 +9,22 @@
 }
 
 @font-face {
+    font-family: 'FZXiJinLFW';
+    src: url('/fonts/FZXiJinLFW.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GenWanMin2-M';
+    src: url('/fonts/GenWanMin2-M-essays.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'FZXiJinLFW Subset';
     src: url('/fonts/FZXiJinLFW-CaiYishu-subset.woff2') format('woff2');
     font-weight: 400;
@@ -30,5 +46,40 @@ body {
 }
 
 .han-name {
-    font-family: 'FZXiJinLFW Subset', 'Crimson Pro', serif;
+    font-family: 'FZXiJinLFW Subset', 'FZXiJinLFW', 'Crimson Pro', serif;
+}
+
+.zh-hant-text {
+    font-family: 'GenWanMin2-M', 'Crimson Pro', 'Microsoft JhengHei', 'PingFang TC', 'Noto Serif CJK TC', serif;
+}
+
+.essay-entry,
+.essay-entry * {
+    font-family: 'GenWanMin2-M', 'Crimson Pro', 'Microsoft JhengHei', 'PingFang TC', 'Noto Serif CJK TC', serif !important;
+}
+
+.essay-entry .essay-author-name {
+    font-family: 'FZXiJinLFW Subset', 'FZXiJinLFW', 'Crimson Pro', serif !important;
+}
+
+.post-content .essay-entry blockquote {
+    border-inline-start: 6px solid #6a7ba2;
+}
+
+.essay-entry .essay-pub-date {
+    font-family: 'Crimson Pro', serif !important;
+}
+
+.post-content .essay-entry .essay-figure {
+    margin: 1rem 0 1.15rem;
+}
+
+.post-content .essay-entry .essay-figure img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    border: 2px solid #6a7ba2;
+    border-radius: 10px;
+    background: #f8fbff;
+    box-sizing: border-box;
 }

@@ -15,9 +15,12 @@ menu:
         - name: Resume
           url: resume/
           weight: 1
-        - name: Publications
+        - name: Papers
           url: publications/
           weight: 2
+        - name: Essays
+          url: essays/
+          weight: 3
         # - name: Projects
         #   url: projects/
         #   weight: 3
@@ -38,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["books","courses","papers","data","essays"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -58,8 +61,10 @@ params:
           buttons:
             - name: Resume
               url: resume/
-            - name: Publications
+            - name: Papers
               url: publications/
+            - name: Essays
+              url: essays/
             # - name: Projects
             #   url: projects/
             # - name: Data
@@ -107,7 +112,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "caiyishu.ink"
+      text: "https://caiyishu.ink"
       icon: favicon.ico
       iconHeight: 24
 
@@ -122,5 +127,3 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
-
-

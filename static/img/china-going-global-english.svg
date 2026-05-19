@@ -1,0 +1,321 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="520" viewBox="0 72 2048 520" role="img" aria-labelledby="title desc">
+  <title id="title">Chinese firms going global: from government-oriented strategy to social embeddedness</title>
+  <desc id="desc">A three-part diagram showing a government-oriented model, rising uncertainty, and a socially embedded model for Chinese firms abroad.</desc>
+  <defs>
+    <linearGradient id="blueTag" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d2f55"/>
+      <stop offset="1" stop-color="#183d6a"/>
+    </linearGradient>
+    <linearGradient id="redTag" x1="0" x2="1">
+      <stop offset="0" stop-color="#cc2d10"/>
+      <stop offset="1" stop-color="#db4518"/>
+    </linearGradient>
+    <linearGradient id="greenTag" x1="0" x2="1">
+      <stop offset="0" stop-color="#149b82"/>
+      <stop offset="1" stop-color="#168d70"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" x2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="0.5" stop-color="#f2f5f8"/>
+      <stop offset="1" stop-color="#f9fcfb"/>
+    </linearGradient>
+    <linearGradient id="arrowFade" x1="0" x2="1">
+      <stop offset="0" stop-color="#d8e0e8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#c4ced7" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#d8e0e8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="building" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#bcd0e2"/>
+      <stop offset="1" stop-color="#5f7fa0"/>
+    </linearGradient>
+    <linearGradient id="globe" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dce8f2"/>
+      <stop offset="0.55" stop-color="#a9bccd"/>
+      <stop offset="1" stop-color="#8098ad"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#38516b" flood-opacity="0.14"/>
+    </filter>
+    <filter id="softBlur">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <marker id="arrowHeadBlue" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,6 L0,12 Z" fill="#a7b6c4"/>
+    </marker>
+    <marker id="arrowHeadGreen" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <path d="M0,0 L16,6 L0,12 Z" fill="#53b9a2"/>
+    </marker>
+    <style>
+      .label { font-family: "Crimson Pro", "Segoe UI", Arial, sans-serif; font-weight: 700; letter-spacing: 0; }
+      .small { font-family: "Crimson Pro", "Segoe UI", Arial, sans-serif; font-weight: 600; letter-spacing: 0; }
+      .tiny { font-family: "Crimson Pro", "Segoe UI", Arial, sans-serif; font-weight: 500; letter-spacing: 0; }
+      .blueLine { stroke: #456d95; stroke-width: 2.2; stroke-dasharray: 8 7; fill: none; }
+      .redLine { stroke: #d85a35; stroke-width: 2.2; stroke-dasharray: 8 7; fill: none; }
+      .greenLine { stroke: #2ba88d; stroke-width: 2.4; stroke-dasharray: 8 8; fill: none; }
+      .circle { fill: #f8fbfd; stroke: #9eb0bf; stroke-width: 2.4; }
+      .greenCircle { fill: #f7fffc; stroke: #24a58c; stroke-width: 2.5; }
+      .iconStroke { stroke: #183b5b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .greenStroke { stroke: #168d70; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .redStroke { stroke: #cb371f; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="2048" height="676" fill="#fff"/>
+  <g transform="translate(0 72)">
+  <rect width="2048" height="520" fill="url(#sky)"/>
+  <g opacity="0.36" filter="url(#softBlur)">
+    <ellipse cx="650" cy="455" rx="260" ry="72" fill="#c8d2db"/>
+    <ellipse cx="1024" cy="445" rx="370" ry="84" fill="#bac7d0"/>
+    <ellipse cx="1510" cy="452" rx="300" ry="72" fill="#cbd7d6"/>
+  </g>
+
+  <g transform="translate(90 38)">
+    <rect width="280" height="52" rx="7" fill="url(#blueTag)" filter="url(#softShadow)"/>
+    <text x="140" y="35" text-anchor="middle" fill="#fff" class="label" font-size="29">Government-Oriented</text>
+  </g>
+
+  <g transform="translate(922 38)">
+    <rect width="272" height="52" rx="7" fill="url(#redTag)" filter="url(#softShadow)"/>
+    <text x="136" y="35" text-anchor="middle" fill="#fff" class="label" font-size="30">Rising Uncertainty</text>
+  </g>
+
+  <g transform="translate(1635 38)">
+    <rect width="260" height="52" rx="7" fill="url(#greenTag)" filter="url(#softShadow)"/>
+    <text x="130" y="35" text-anchor="middle" fill="#fff" class="label" font-size="28">Socially Embedded</text>
+  </g>
+
+  <!-- Left: government-led model -->
+  <g transform="translate(52 130)">
+    <path d="M0 230 H250" stroke="#1d3c5d" stroke-width="3"/>
+    <path d="M25 45 L95 0 L210 62 L210 230 L25 230 Z" fill="url(#building)" stroke="#1d3c5d" stroke-width="3"/>
+    <path d="M95 0 L95 230" stroke="#1d3c5d" stroke-width="2"/>
+    <path d="M25 45 L95 80 L210 62" stroke="#1d3c5d" stroke-width="2"/>
+    <rect x="116" y="88" width="92" height="132" fill="#88a6bf" stroke="#1d3c5d" stroke-width="3"/>
+    <g fill="#edf5fb">
+      <rect x="48" y="72" width="38" height="12" rx="2"/>
+      <rect x="48" y="104" width="38" height="12" rx="2"/>
+      <rect x="48" y="136" width="38" height="12" rx="2"/>
+      <rect x="128" y="112" width="64" height="13" rx="2"/>
+      <rect x="128" y="145" width="64" height="13" rx="2"/>
+      <rect x="128" y="178" width="64" height="13" rx="2"/>
+    </g>
+    <text x="106" y="63" transform="rotate(24 106 63)" class="small" font-size="20" fill="#12385a">Chinese Firm</text>
+    <text x="116" y="148" class="small" font-size="20" fill="#12385a">Chinese Firm</text>
+    <g transform="translate(-2 205)">
+      <rect x="0" y="17" width="18" height="27" rx="2" fill="#219c7a"/>
+      <circle cx="9" cy="14" r="11" fill="#37aa83"/>
+    </g>
+  </g>
+
+  <path d="M285 248 C340 210 393 205 451 248" class="blueLine"/>
+  <circle cx="352" cy="245" r="68" fill="#fff" stroke="#becbd6" stroke-width="2.4" stroke-dasharray="8 6"/>
+  <g transform="translate(298 213)">
+    <path d="M10 36 C30 8 51 43 70 17 C84 -2 104 11 110 23" class="iconStroke"/>
+    <path d="M29 33 L58 56 L89 31" class="iconStroke"/>
+    <rect x="-5" y="9" width="34" height="18" transform="rotate(-22 -5 9)" fill="#2d5580"/>
+    <rect x="88" y="11" width="34" height="18" transform="rotate(28 88 11)" fill="#2d5580"/>
+  </g>
+
+  <g transform="translate(470 132)">
+    <path d="M110 24 L210 76 L210 214 L10 214 L10 76 Z" fill="#e9f1f7" stroke="#1d3c5d" stroke-width="4"/>
+    <path d="M28 76 H192" stroke="#1d3c5d" stroke-width="4"/>
+    <path d="M72 76 C72 42 148 42 148 76" fill="#dfe9f1" stroke="#1d3c5d" stroke-width="4"/>
+    <rect x="88" y="40" width="44" height="36" fill="#b9cad9" stroke="#1d3c5d" stroke-width="3"/>
+    <path d="M98 28 V6 L124 10 L124 26" fill="#1d3c5d"/>
+    <g stroke="#1d3c5d" stroke-width="4">
+      <line x1="48" y1="95" x2="48" y2="214"/>
+      <line x1="88" y1="95" x2="88" y2="214"/>
+      <line x1="132" y1="95" x2="132" y2="214"/>
+      <line x1="172" y1="95" x2="172" y2="214"/>
+    </g>
+    <text x="110" y="250" text-anchor="middle" class="small" font-size="22" fill="#15395e">Host-Country</text>
+    <text x="110" y="276" text-anchor="middle" class="small" font-size="22" fill="#15395e">Government</text>
+  </g>
+
+  <path d="M405 306 L430 400 L520 310" class="blueLine"/>
+  <g transform="translate(188 372)">
+    <circle r="51" class="circle"/>
+    <path d="M-17 -30 H15 L30 -15 V30 H-17 Z" class="iconStroke"/>
+    <path d="M15 -30 V-15 H30" class="iconStroke"/>
+    <path d="M-5 -6 H14 M-5 8 H14" class="iconStroke"/>
+    <circle cx="23" cy="23" r="16" fill="#fff" stroke="#2e987a" stroke-width="3"/>
+    <path d="M14 23 L21 30 L34 15" stroke="#2e987a" stroke-width="4" fill="none"/>
+    <text x="0" y="84" text-anchor="middle" class="small" font-size="21" fill="#1d3c5d">Approvals</text>
+  </g>
+  <g transform="translate(332 386)">
+    <circle r="51" class="circle"/>
+    <path d="M-27 22 H27 M-18 22 V-24 H18 V22 M-31 -24 H31 L0 -43 Z" class="iconStroke"/>
+    <path d="M-8 22 V-10 H8 V22" class="iconStroke"/>
+    <text x="0" y="84" text-anchor="middle" class="small" font-size="21" fill="#1d3c5d">Market Access</text>
+  </g>
+  <g transform="translate(466 386)">
+    <circle r="51" class="circle"/>
+    <ellipse cx="0" cy="-20" rx="25" ry="9" class="iconStroke"/>
+    <path d="M-25 -20 V23 C-25 35 25 35 25 23 V-20" class="iconStroke"/>
+    <path d="M-25 1 C-25 13 25 13 25 1" class="iconStroke"/>
+    <text x="0" y="84" text-anchor="middle" class="small" font-size="21" fill="#1d3c5d">Resources/</text>
+    <text x="0" y="110" text-anchor="middle" class="small" font-size="21" fill="#1d3c5d">Policy Incentives</text>
+  </g>
+
+  <!-- Transition arrow -->
+  <g opacity="0.95">
+    <rect x="625" y="246" width="96" height="28" fill="url(#arrowFade)"/>
+    <path d="M721 218 L788 260 L721 302 Z" fill="#c5cfd9" opacity="0.82"/>
+  </g>
+
+  <!-- Center: uncertainty -->
+  <g transform="translate(822 128)">
+    <circle cx="212" cy="142" r="116" fill="url(#globe)" stroke="#748aa0" stroke-width="3"/>
+    <ellipse cx="212" cy="142" rx="54" ry="116" fill="none" stroke="#d9e4ec" stroke-width="2"/>
+    <ellipse cx="212" cy="142" rx="91" ry="116" fill="none" stroke="#cbd9e2" stroke-width="2"/>
+    <path d="M96 142 H328 M126 78 H298 M126 206 H298" stroke="#d7e3ec" stroke-width="2"/>
+    <path d="M133 89 C170 108 215 107 293 83 M116 159 C171 170 246 167 312 153 M143 216 C177 197 241 198 284 217" fill="none" stroke="#6c8194" stroke-width="3"/>
+    <path d="M166 37 C144 74 147 95 166 117 C187 141 185 170 161 202 C196 188 220 186 256 202 C236 171 236 143 263 120 C287 100 289 72 269 40 C231 54 199 53 166 37 Z" fill="#31485f" opacity="0.33"/>
+    <path d="M26 142 C82 36 307 36 396 142" class="redLine"/>
+    <path d="M8 142 C78 246 312 248 414 143" class="blueLine"/>
+    <path d="M15 248 C135 145 291 119 410 36" class="redLine"/>
+    <path d="M42 33 C140 136 266 175 385 250" class="blueLine"/>
+  </g>
+
+  <g transform="translate(842 122)">
+    <circle r="48" class="circle"/>
+    <path d="M-20 21 V-32 M0 21 V-13 M20 21 V2" class="redStroke"/>
+    <path d="M-31 22 H31" class="iconStroke"/>
+    <path d="M-28 -29 L31 30" stroke="#cb371f" stroke-width="6"/>
+  </g>
+  <g transform="translate(806 244)">
+    <circle r="48" class="circle"/>
+    <rect x="-30" y="-10" width="60" height="30" rx="3" fill="#fff" stroke="#183b5b" stroke-width="4"/>
+    <path d="M-30 -10 L-20 -28 H20 L30 -10" class="iconStroke"/>
+    <path d="M-22 -7 L-6 18 M1 -7 L17 18" class="redStroke"/>
+  </g>
+  <g transform="translate(858 376)">
+    <circle r="52" class="circle"/>
+    <path d="M0 -34 L37 31 H-37 Z" fill="#d9472a" stroke="#9a2d20" stroke-width="3"/>
+    <text x="0" y="22" text-anchor="middle" class="label" font-size="52" fill="#fff">!</text>
+  </g>
+  <g transform="translate(1236 123)">
+    <circle r="48" class="circle"/>
+    <path d="M-21 -26 H-2 L-9 -11 L-1 6 H-22 L-14 -11 Z" fill="#183b5b"/>
+    <path d="M11 -33 H30 L22 -13 L31 6 H10 L18 -13 Z" fill="#183b5b"/>
+    <path d="M-28 28 H36 M-21 15 H28" class="iconStroke"/>
+  </g>
+  <g transform="translate(1286 244)">
+    <circle r="48" class="circle"/>
+    <path d="M-33 18 H34 L23 35 H-23 Z" fill="#9bb5ca" stroke="#183b5b" stroke-width="4"/>
+    <rect x="-17" y="-10" width="13" height="28" fill="#d9472a"/>
+    <rect x="-2" y="-20" width="13" height="38" fill="#2b6f9d"/>
+    <rect x="13" y="-3" width="13" height="21" fill="#78a96b"/>
+    <path d="M-36 35 H37" class="iconStroke"/>
+  </g>
+  <g transform="translate(1245 376)">
+    <circle r="51" class="circle"/>
+    <rect x="-28" y="-31" width="56" height="68" rx="2" fill="#fff" stroke="#183b5b" stroke-width="4"/>
+    <text x="0" y="-4" text-anchor="middle" class="label" font-size="25" fill="#cb371f">Tariffs</text>
+    <circle cx="18" cy="18" r="15" fill="#d9472a"/>
+    <text x="18" y="27" text-anchor="middle" class="label" font-size="23" fill="#fff">%</text>
+  </g>
+
+  <g transform="translate(744 315)">
+    <path d="M0 0 C58 -42 115 -34 166 0" fill="none" stroke="#173b60" stroke-width="13" stroke-linecap="round"/>
+    <g fill="none" stroke="#173b60" stroke-width="8">
+      <path d="M22 -12 L61 12"/>
+      <path d="M68 8 L105 -13"/>
+      <path d="M112 -14 L151 10"/>
+    </g>
+    <path d="M0 0 C58 -42 115 -34 166 0" fill="none" stroke="#b4c1cc" stroke-width="7" stroke-linecap="round" stroke-dasharray="28 20"/>
+  </g>
+  <g transform="translate(1180 315)">
+    <path d="M0 0 C70 -45 148 -35 224 0" fill="none" stroke="#173b60" stroke-width="13" stroke-linecap="round"/>
+    <g fill="none" stroke="#173b60" stroke-width="8">
+      <path d="M24 -12 L68 13"/>
+      <path d="M80 9 L121 -14"/>
+      <path d="M132 -15 L177 11"/>
+      <path d="M187 8 L222 -8"/>
+    </g>
+    <path d="M0 0 C70 -45 148 -35 224 0" fill="none" stroke="#b4c1cc" stroke-width="7" stroke-linecap="round" stroke-dasharray="28 20"/>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="1356" y="246" width="96" height="28" fill="url(#arrowFade)"/>
+    <path d="M1452 218 L1519 260 L1452 302 Z" fill="#c5cfd9" opacity="0.82"/>
+  </g>
+
+  <!-- Right: social embeddedness -->
+  <g transform="translate(1500 122)">
+    <ellipse cx="255" cy="189" rx="186" ry="146" class="greenLine"/>
+    <path d="M90 285 C170 155 310 124 426 70" class="greenLine"/>
+    <path d="M88 92 C178 154 288 208 426 274" class="greenLine"/>
+    <path d="M170 48 C212 167 236 259 254 333" class="greenLine"/>
+    <path d="M330 43 C304 140 290 245 280 334" class="greenLine"/>
+    <g fill="#62c2ad">
+      <circle cx="108" cy="95" r="7"/><circle cx="208" cy="53" r="7"/><circle cx="314" cy="55" r="7"/>
+      <circle cx="432" cy="92" r="7"/><circle cx="436" cy="260" r="7"/><circle cx="336" cy="326" r="7"/>
+      <circle cx="184" cy="326" r="7"/><circle cx="82" cy="250" r="7"/><circle cx="254" cy="190" r="7"/>
+    </g>
+  </g>
+
+  <g transform="translate(1652 208)">
+    <path d="M0 180 H238" stroke="#168d70" stroke-width="3"/>
+    <path d="M45 55 L105 18 L198 72 L198 180 L45 180 Z" fill="#cbdde6" stroke="#2c5778" stroke-width="3"/>
+    <path d="M105 18 L105 180" stroke="#2c5778" stroke-width="2"/>
+    <rect x="112" y="95" width="86" height="85" fill="#9bb6c8" stroke="#2c5778" stroke-width="3"/>
+    <g fill="#eff7fa">
+      <rect x="62" y="78" width="28" height="10"/><rect x="62" y="107" width="28" height="10"/>
+      <rect x="123" y="113" width="56" height="11"/><rect x="123" y="141" width="56" height="11"/>
+    </g>
+    <text x="73" y="79" transform="rotate(24 73 79)" class="small" font-size="17" fill="#183b5b">Chinese Firm</text>
+    <text x="132" y="120" class="small" font-size="17" fill="#183b5b">Chinese Firm</text>
+    <path d="M20 176 C65 142 86 158 121 135 C146 119 176 126 215 91" class="greenLine"/>
+  </g>
+
+  <g transform="translate(1542 142)">
+    <circle r="49" class="greenCircle"/>
+    <path d="M-19 -15 A13 13 0 1 0 -18 -14 M17 -15 A13 13 0 1 0 18 -14" class="greenStroke"/>
+    <path d="M-28 32 V9 C-28 -2 -9 -2 -9 9 V32 M8 32 V9 C8 -2 28 -2 28 9 V32" class="greenStroke"/>
+    <text x="0" y="85" text-anchor="middle" class="small" font-size="21" fill="#166f60">Employees</text>
+  </g>
+  <g transform="translate(1722 142)">
+    <circle r="55" class="greenCircle"/>
+    <circle cx="-22" cy="-14" r="13" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <circle cx="0" cy="-20" r="15" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <circle cx="23" cy="-14" r="13" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <path d="M-40 31 V6 C-40 -7 -18 -7 -18 6 V31 M-16 31 V3 C-16 -11 16 -11 16 3 V31 M18 31 V6 C18 -7 40 -7 40 6 V31" class="greenStroke"/>
+    <text x="0" y="90" text-anchor="middle" class="small" font-size="21" fill="#166f60">Consumers</text>
+  </g>
+  <g transform="translate(1852 142)">
+    <circle r="49" class="greenCircle"/>
+    <path d="M-31 7 L0 -24 L31 7 V34 H-31 Z" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <path d="M-11 34 V10 H11 V34 M-39 7 H39" class="greenStroke"/>
+    <text x="0" y="85" text-anchor="middle" class="small" font-size="21" fill="#166f60">Community</text>
+  </g>
+  <g transform="translate(1512 352)">
+    <circle r="49" class="greenCircle"/>
+    <path d="M-25 18 C-12 0 -7 -17 -11 -32 M-11 -32 C6 -22 6 7 -6 24" class="greenStroke"/>
+    <rect x="4" y="15" width="22" height="14" rx="3" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <text x="0" y="82" text-anchor="middle" class="small" font-size="21" fill="#166f60">Media/Public</text>
+  </g>
+  <g transform="translate(1702 406)">
+    <circle r="51" class="greenCircle"/>
+    <path d="M-36 -9 L0 -30 L36 -9 L0 11 Z" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <path d="M-22 2 V24 C-5 34 5 34 22 24 V2" class="greenStroke"/>
+    <path d="M36 -9 V17" class="greenStroke"/>
+    <text x="0" y="84" text-anchor="middle" class="small" font-size="21" fill="#166f60">Schools</text>
+  </g>
+  <g transform="translate(1852 350)">
+    <circle r="51" class="greenCircle"/>
+    <circle cx="-17" cy="-21" r="12" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <circle cx="17" cy="-21" r="12" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <path d="M-38 30 V7 C-38 -8 -15 -8 -15 7 V30 M-2 30 V7 C-2 -8 22 -8 22 7 V30" class="greenStroke"/>
+    <text x="0" y="84" text-anchor="middle" class="small" font-size="21" fill="#166f60">Social</text>
+    <text x="0" y="108" text-anchor="middle" class="small" font-size="21" fill="#166f60">Organizations</text>
+  </g>
+  <g transform="translate(1904 256)">
+    <circle r="49" class="greenCircle"/>
+    <path d="M-33 -12 H33 L23 8 H-23 Z" fill="#d9f1eb" stroke="#166f60" stroke-width="4"/>
+    <path d="M-27 8 V32 H27 V8 M-11 32 V14 H11 V32" class="greenStroke"/>
+    <text x="0" y="84" text-anchor="middle" class="small" font-size="21" fill="#166f60">Businesses</text>
+  </g>
+  <path d="M1924 438 C1972 362 1992 288 2018 202" fill="none" stroke="#5bc0a8" stroke-width="30" opacity="0.75" marker-end="url(#arrowHeadGreen)"/>
+  </g>
+</svg>

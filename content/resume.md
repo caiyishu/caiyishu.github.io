@@ -1,8 +1,10 @@
 <img src="/img/resume-header-full.png" alt="Yishu Cai resume header" class="resume-header-image" />
 
+<p align="center" class="resume-table-separator" style="font-size:1.5em;">◈──§──◈</p>
+
 |                                                              |                                                              |
 | :----------------------------------------------------------- | -----------------------------------------------------------: |
-| **<br /><font color=#c27617 size=5>Education</font>**        |                                                              |
+| **<font color=#c27617 size=5>Education</font>**              |                                                              |
 | **The Chinese  University of Hong Kong**                     |                                          Ph.D. in Management |
 | **Xi'an Jiaotong University**                                |                       Integrated Bachelor’s–Master’s Program |
 | **<br /><font color=#c27617 size=5>Research Interest**       |                                                              |
@@ -25,4 +27,3 @@
 | **Top 1% Outstanding Undergraduate Thesis**                  |                                                         XJTU |
 
 <p align="center" style="font-size:1.5em;">◈──§──◈</p>
-

@@ -40,11 +40,13 @@
     background: var(--entry);
     border-radius: var(--radius);
     transition: transform 0.1s, border-color 0.15s ease;
-    border: 2px solid rgba(63, 79, 101, 0.24);
+    border: 2px solid rgba(30, 39, 75, 0.72);
 }
 
-.post-entry:hover {
-     border: 2px solid var(--secondary);
+.post-entry:hover,
+.post-entry:active,
+.post-entry:has(.entry-link:active) {
+    border-color: #c27617;
 }
 
 .tag-entry .entry-cover {

@@ -453,12 +453,20 @@ a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
 }
 
 
-.resume-header-image {
+.post-content .resume-header-image {
     display: block;
     width: 389px;
     max-width: 100%;
     height: auto;
-    margin: 0 0 18px 0;
+    margin: 0 auto 18px;
+}
+
+.post-content .resume-table-separator {
+    margin-bottom: 0;
+}
+
+.post-content .resume-table-separator + table tbody tr:first-child td {
+    padding-top: 0;
 }
 
 .post-title,
