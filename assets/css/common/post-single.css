@@ -141,12 +141,17 @@
     margin-bottom: var(--content-gap);
 }
 
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight):has(font[color="#c27617"]) thead {
+    display: none;
+}
+
 .post-content table th,
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
     padding: 8px 5px;
     line-height: var(--lineheight);
-    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+    border-bottom: 1.2px solid rgba(63, 79, 101, 0.24);
 }
 
 .post-content table th {
@@ -155,7 +160,12 @@
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
-    border-bottom: 2px solid var(--tertiary);
+    border-bottom: 2px solid var(--primary);
+}
+
+
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight) tr:has(font[color="#c27617"]) td {
+    border-bottom: 3px solid var(--primary);
 }
 
 .post-content table:not(.highlighttable) td code:only-child {
@@ -205,6 +215,7 @@
 .post-content code {
     margin: auto 4px;
     padding: 4px 6px;
+    font-family: 'Consolas Web', Consolas, "Courier New", monospace;
     font-size: 0.78em;
     line-height: var(--lineheight);
     background: var(--code-bg);
@@ -215,6 +226,7 @@
     display: grid;
     margin: auto 0;
     padding: 10px;
+    font-family: 'Consolas Web', Consolas, "Courier New", monospace;
     color: var(--secondary);
     border-radius: var(--radius);
     overflow-x: auto;
@@ -438,4 +450,26 @@ a[href^="#fn:"], a[href^="#fnref:"] {
 
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
     color: var(--darkcolor);
+}
+
+
+.resume-header-image {
+    display: block;
+    width: 389px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 0 18px 0;
+}
+
+.post-title,
+.page-header h1,
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+    color: var(--darkcolor);
+}
+
+.post-content table th {
+    color: var(--secondary);
+    border-bottom-color: var(--tertiary);
 }

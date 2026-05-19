@@ -1,17 +1,17 @@
-<img src="https://caiyishu.github.io/picx-images-hosting/签名.1zii8637xy.webp" alt="img" style="zoom:12%;" />
+<img src="/img/resume-header-full.png" alt="Yishu Cai resume header" class="resume-header-image" />
 
 |                                                              |                                                              |
 | :----------------------------------------------------------- | -----------------------------------------------------------: |
-| **<br /><font color=#6A7BA2 size=5>Education</font>**        |                                                              |
-| **The Chinese  University of Hong Kong**                     |                                Ph.D. Candidate in Management |
+| **<br /><font color=#c27617 size=5>Education</font>**        |                                                              |
+| **The Chinese  University of Hong Kong**                     |                                          Ph.D. in Management |
 | **Xi'an Jiaotong University**                                |                       Integrated Bachelor’s–Master’s Program |
-| **<br /><font color=#6A7BA2 size=5>Research Interest**       |                                                              |
-| **Substantive**<br /><br /><br /><br /><br />                | Nonmarket Strategy<br />Business, Society, and Politics<br />Technological Change<br />AI Transition<br />Digital Activism |
-| **Methodology**<br /><br /><br /><br />                      | Causal Inference<br />Natural Language Processing<br />Deep Learning<br />Network Analysis |
+| **<br /><font color=#c27617 size=5>Research Interest**       |                                                              |
+| **Substantive**                                              | Nonmarket Strategy<br />Business, Society, and Politics<br />Technological Change<br />AI Transition<br />Digital Activism |
+| **Methodology**                                              | Causal Inference<br />Natural Language Processing<br />Deep Learning<br />Network Analysis |
 | **Programming Tool**                                         |                                    Python; Stata; R; C++; VB |
-| **<br /><font color=#6A7BA2 size=5>Community Service</font>** |                                                              |
-| **Ad Hoc Reviewer**<br /><br /><br /><br /><br />            | *American Sociological Review*<br />*Academy of Management Journal*<br />*Journal of International Marketing*<br />*Management and Organization Review*<br />*Organization Science* |
-| **<br /><font color=#6A7BA2 size=5>Academic Awards</font>**  |                                                              |
+| **<br /><font color=#c27617 size=5>Community Service</font>** |                                                              |
+| **Ad Hoc Reviewer**                                          | *American Sociological Review*<br />*Academy of Management Journal*<br />*Journal of International Marketing*<br />*Management and Organization Review*<br />*Organization Science* |
+| **<br /><font color=#c27617 size=5>Academic Awards</font>**  |                                                              |
 | **Best Paper Designation**                                   |                                                          AOM |
 | **Li Po Chun Charitable Trust Fund Scholarship**             |                                                         CUHK |
 | **Kwok Leung Memorial Dissertation Fund Grant**              |                                                        IACMR |

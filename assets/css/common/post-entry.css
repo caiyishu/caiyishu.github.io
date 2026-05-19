@@ -39,12 +39,12 @@
     padding: var(--gap);
     background: var(--entry);
     border-radius: var(--radius);
-    transition: transform 0.1s;
-    border: 2px solid var(--border);
+    transition: transform 0.1s, border-color 0.15s ease;
+    border: 2px solid rgba(63, 79, 101, 0.24);
 }
 
 .post-entry:hover {
-     border: 2px solid var(--darkcolor);
+     border: 2px solid var(--secondary);
 }
 
 .tag-entry .entry-cover {
@@ -52,6 +52,7 @@
 }
 
 .entry-header h2 {
+    color: var(--darkcolor);
     font-size: 20px;
     line-height: var(--lineheight);
 }

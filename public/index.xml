@@ -62,7 +62,7 @@
       <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;img src=&#34;https://caiyishu.github.io/picx-images-hosting/签名.1zii8637xy.webp&#34; alt=&#34;img&#34; style=&#34;zoom:12%;&#34; /&gt;
+      <description>&lt;img src=&#34;http://localhost:1313/img/resume-header-full.png&#34; alt=&#34;Yishu Cai resume header&#34; class=&#34;resume-header-image&#34; /&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -72,27 +72,27 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;&lt;br /&gt;&lt;font color=#6A7BA2 size=5&gt;Education&lt;/font&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;&lt;br /&gt;&lt;font color=#c27617 size=5&gt;Education&lt;/font&gt;&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;The Chinese  University of Hong Kong&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;Ph.D. Candidate in Management&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;Ph.D. in Management&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Xi&amp;rsquo;an Jiaotong University&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;Integrated Bachelor’s–Master’s Program&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;&lt;br /&gt;&lt;font color=#6A7BA2 size=5&gt;Research Interest&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;&lt;br /&gt;&lt;font color=#c27617 size=5&gt;Research Interest&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Substantive&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Substantive&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;Nonmarket Strategy&lt;br /&gt;Business, Society, and Politics&lt;br /&gt;Technological Change&lt;br /&gt;AI Transition&lt;br /&gt;Digital Activism&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Methodology&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Methodology&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;Causal Inference&lt;br /&gt;Natural Language Processing&lt;br /&gt;Deep Learning&lt;br /&gt;Network Analysis&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -100,15 +100,15 @@
           &lt;td style=&#34;text-align: right&#34;&gt;Python; Stata; R; C++; VB&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;&lt;br /&gt;&lt;font color=#6A7BA2 size=5&gt;Community Service&lt;/font&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;&lt;br /&gt;&lt;font color=#c27617 size=5&gt;Community Service&lt;/font&gt;&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Ad Hoc Reviewer&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Ad Hoc Reviewer&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;&lt;em&gt;American Sociological Review&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Academy of Management Journal&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Journal of International Marketing&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Management and Organization Review&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Organization Science&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;&lt;br /&gt;&lt;font color=#6A7BA2 size=5&gt;Academic Awards&lt;/font&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;&lt;br /&gt;&lt;font color=#c27617 size=5&gt;Academic Awards&lt;/font&gt;&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
