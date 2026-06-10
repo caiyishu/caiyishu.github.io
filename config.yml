@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Yishu CAI
           subtitle: >-
-            I am Yishu Cai (<span lang="zh-Hant" class="han-name">蔡益書</span>; pronounced EE-shoo Ts-EYE). I study how social forces intertwine with the dynamics between business and politics and investigate how corporations navigate turbulent institutional transitions and technological shifts. My work uses econometric analysis, network analysis, and computational methods. My research has appeared in <em>Administrative Science Quarterly</em>, and I have served as a reviewer for sociology and management journals, including <em>American Sociological Review</em>, <em>Academy of Management Journal</em>, <em>Organization Science</em>, and <em>Management and Organization Review</em>. I received my PhD from The Chinese University of Hong Kong.
+            <span class="profile-subtitle-paragraph">I am Yishu Cai (<span lang="zh-Hant" class="han-name">蔡益書</span>; pronounced EE-shoo Ts-EYE). I study how social forces intertwine with the dynamics between business and politics and investigate how corporations navigate turbulent institutional transitions and technological shifts.</span><span class="profile-subtitle-paragraph">My work uses econometric analysis, network analysis, and computational methods. My research has appeared in <em>Administrative Science Quarterly</em>, and I have served as a reviewer for sociology and management journals, including <em>American Sociological Review</em>, <em>Academy of Management Journal</em>, <em>Organization Science</em>, and <em>Management and Organization Review</em>. I received my PhD from The Chinese University of Hong Kong.</span>
           imageUrl: "picture.jpeg"
           imageWidth: 166
           imageHeight: 166
