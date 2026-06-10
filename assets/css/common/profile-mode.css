@@ -29,8 +29,7 @@
 }
 
 .profile .profile-subtitle-paragraph + .profile-subtitle-paragraph {
-    margin-top: calc(0.5em * var(--lineheight));
-    margin-top: 0.5lh;
+    margin-top: 0;
 }
 
 .profile .profile-image-link {
